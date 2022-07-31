@@ -1,5 +1,5 @@
-numpy = "1.22.2"
-Flask = "2.1.1"
-requests = "2.27.1"
-bs4 = "0.0.1"
-discord = "1.7.3"
+numpy==1.22.2
+Flask==2.1.1
+requests==2.27.1
+bs4==0.0.1
+discord==1.7.3
