@@ -1,0 +1,45 @@
+{
+    "errors": [
+        {
+            "message": "User with b6205c14-cc22-43f4-8995-f33f107ae13b does not have required permissions",
+            "extensions": {
+                "metadata": {
+                    "accessRestrictions": [
+                        "NO_ACCESS"
+                    ]
+                },
+                "errorType": "AccessError",
+                "code": "FORBIDDEN"
+            }
+        }
+    ],
+    "data": {
+        "questionByLegacyId": {
+            "askedByMe": false,
+            "content": {
+                "body": "<p>Beth and John were hiking in the Florida Everglades.John is a\ndiabetic.While hiking he fell and cut his big toe. Later that week\nhe came to the emergency room complaining of pain in the foot and\nswelling. He has redness and some blackened tissue around the cut.\nHis blood pressure is 90/50. What do you suspect he has? What\ntreatment is necessary to clear this infection? What precautions\nare needed in a case like this?</p>\n",
+                "transcribedData": null,
+                "__typename": "LearnerQnaContent"
+            },
+            "expertFeedback": null,
+            "editable": false,
+            "lastUpdated": "2021-08-29T09:01:53.000Z",
+            "organicUrl": "/homework-help/questions-and-answers/beth-john-hiking-florida-evergladesjohn-diabetic-hiking-fell-cut-big-toe-later-week-came-e-q68608361",
+            "publishedDate": "2021-02-21T00:15:56.000Z",
+            "questionState": "Answered",
+            "uuid": "79ed77ba-5e05-4dab-a0c1-6c77b1d57539",
+            "honorShield": null,
+            "htmlAnswers": [
+                {
+                    "answerPreview": "Foot problems are common in people with diabetes.Diabetes may cause nerve damage, also called diabetic neuropathy,can make diabatic person lose feeling in his feet. When a diabatic person loses feeling in his feet which can lead to cuts a",
+                    "id": "1c9fe0f7-ae91-420c-b5c7-295fc8e743a2",
+                    "legacyId": 67722220,
+                    "answerData": null,
+                    "__typename": "HTMLAnswer"
+                }
+            ],
+            "ecAnswers": null,
+            "__typename": "Question"
+        }
+    }
+}

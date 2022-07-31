@@ -1,0 +1,23 @@
+{
+    "data": {
+        "textbook_solution": {
+            "isbn13": "9780070406599",
+            "coverName": "Introduction to Languages and the Theory of Computation",
+            "editionNumber": 4,
+            "chapter": [
+                {
+                    "chapterName": "8",
+                    "problems": [
+                        {
+                            "problemName": "6",
+                            "problemHtml": "<div class=\"question\"><p>Describe algorithms to enumerate these sets. (You do not need to discuss the mechanics of constructing Turing machines to execute the algorithms.)</p><p>a.\u2003The set of all pairs (<span class=\"italics\">n</span>, <span class=\"italics\">m</span>) for which <span class=\"italics\">n</span> and <span class=\"italics\">m</span> are relatively prime positive integers (\"relatively prime\" means having no common factor bigger than 1)</p><hr/><p>b.\u2003The set of all strings over {0, 1} that contain a nonnull substring of the form <span class=\"italics\">www</span></p><p><span class=\"italics\"><hr/></span></p><p>c.\u2003{<span class=\"italics\">n</span>\u03f5<span class=\"italics\">N</span> | for some positive integers <span class=\"italics\">x</span>, <span class=\"italics\">y</span>, and <span class=\"italics\">z</span>, <span class=\"italics\">x<span class=\"sup\">n</span> + y<span class=\"sup\">n</span> = z<span class=\"sup\">n</span></span>} (Answer this question without using Fermat's theorem, which says that the only elements of the set are 1 and 2.)</p></div>",
+                            "userAssetCount": 0,
+                            "solutionV2": [],
+                            "solutions": []
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
